@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="elFinder.AspNet" Version="1.0.0" />
+    <PackageReference Include="elFinder.AspNet" Version="1.1.1" />
     <PackageReference Include="Microsoft.ChakraCore" Version="1.8.5">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
